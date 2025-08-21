@@ -1,0 +1,79 @@
+# Project Rules
+
+This project uses AIME for development assistance with automatic state tracking.
+
+## Current Plan and TODOs
+
+### Plan
+## Plan for Holistic Wellness App MVP
+  
+  ### Approach:
+  Build a mobile-first Progressive Web App (PWA) that combines biometric data, astrology, numerology, and health science into a unified wellness dashboard. The MVP will focus on core data collection, basic analysis, and actionable insights presentation.
+  
+  ### MVP Core Features:
+  1. **User Onboarding** - Collect birth data, basic health info
+  2. **Wellness Dashboard** - Unified view of all health dimensions
+  3. **Data Input System** - Manual entry for biometrics, mood tracking
+  4. **Astrology Integration** - Basic zodiac and planetary influences
+  5. **Numerology Analysis** - Life path and personal year calculations
+  6. **Health Insights** - Combine all data into actionable recommendations
+  7. **Daily Guidance** - Personalized tips based on current state
+  
+  ### Tech Stack:
+  - React + Vite (fast development)
+  - Tailwind CSS (mobile-first styling)
+  - Zustand (state management)
+  - LocalStorage (MVP data persistence)
+  - Chart.js (data visualization)
+  - PWA capabilities (installable on mobile)
+  
+  ### TODOs:
+  [ ] Set up React project with Vite and dependencies
+  [ ] Create mobile-first responsive layout structure
+  [ ] Build user onboarding flow (birth data, health profile)
+  [ ] Implement wellness dashboard with three health dimensions
+  [ ] Create biometric data input forms
+  [ ] Add astrology calculation module
+  [ ] Add numerology calculation module
+  [ ] Build insights engine to combine all data
+  [ ] Create daily guidance feature
+  [ ] Add data visualization for trends
+  [ ] Implement PWA manifest for mobile installation
+  [ ] Add local data persistence
+
+### TODOs
+[ ] Set up React project with Vite and dependencies
+[ ] Create mobile-first responsive layout structure
+[ ] Build user onboarding flow (birth data, health profile)
+[ ] Implement wellness dashboard with three health dimensions
+[ ] Create biometric data input forms
+[ ] Add astrology calculation module
+[ ] Add numerology calculation module
+[ ] Build insights engine to combine all data
+[ ] Create daily guidance feature
+[ ] Add data visualization for trends
+[ ] Implement PWA manifest for mobile installation
+[ ] Add local data persistence
+
+# Lessons Learned
+
+## User Specified Lessons
+(No lessons documented yet)
+
+## AIME Learned  
+(No lessons documented yet)
+
+# Scratchpad
+
+## Current Task
+No active task
+
+## Progress
+[X] Project setup complete
+
+## Notes
+- Project uses AIME for AI-assisted development
+- All project state is automatically tracked
+
+## Next Steps
+- Start working on development goals
